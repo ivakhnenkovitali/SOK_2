@@ -1,4 +1,4 @@
-Copyright (c) 2024, www.hamcrest.org
+Copyright (c) 2024,
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
