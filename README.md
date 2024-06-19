@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Copyright (c) 2024,   
+=======
+Copyright (c) 2024,
+>>>>>>> vitali/master
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -9,7 +13,11 @@ conditions and the following disclaimer. Redistributions in binary form must rep
 the above copyright notice, this list of conditions and the following disclaimer in
 the documentation and/or other materials provided with the distribution.
 
+<<<<<<< HEAD
 Neither the name of ivakhnenkovitali.com   nor the names of its contributors may be used to endorse
+=======
+Neither the name of ivakhnenkovitali.com nor the names of its contributors may be used to endorse
+>>>>>>> vitali/master
 or promote products derived from this software without specific prior written
 permission.
 
