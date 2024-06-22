@@ -1,3 +1,8 @@
+
+
+![1](https://github.com/ivakhnenkovitali/SOK_2/assets/141067997/5ca55f81-b211-40df-9f12-61579bc4614a)
+
+
 <<<<<<< HEAD
 Copyright (c) 2024,   
 =======
