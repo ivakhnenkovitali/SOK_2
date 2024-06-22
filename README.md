@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Final+project)](https://git.io/typing-svg)  
 
 ![1](https://github.com/ivakhnenkovitali/SOK_2/assets/141067997/5ca55f81-b211-40df-9f12-61579bc4614a)
 
