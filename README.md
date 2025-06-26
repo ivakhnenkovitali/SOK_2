@@ -7,7 +7,11 @@ Copyright (c) 2024,
 >>>>>>> vitali/master
 All rights reserved.
 
-Центры мониторинга информационной безопасности
+Центры мониторинга информационной безопасности  
+___________________________________
+![оо](https://github.com/user-attachments/assets/aba878e9-4de1-45ff-a79e-bd8d083c9b94)
+
+_______________________________
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
