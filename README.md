@@ -6,7 +6,10 @@ Copyright (c) 2024,
 Copyright (c) 2024,
 >>>>>>> vitali/master
 All rights reserved.
+>>>>>>> 
+Zentren für Informationssicherheitsmonitoring
 
+Цэнтры маніторынгу інфармацыйнай бяспекі
 Центры мониторинга информационной безопасности  
 ___________________________________
 ![оо](https://github.com/user-attachments/assets/aba878e9-4de1-45ff-a79e-bd8d083c9b94)
