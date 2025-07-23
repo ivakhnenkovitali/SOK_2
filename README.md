@@ -1,3 +1,13 @@
+
+____________________________________________________
+
+
+https://github.com/user-attachments/assets/74b00554-43fa-46ea-a7bd-329fafdc0034
+
+
+______________________________________________________
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Final+project)](https://git.io/typing-svg)  
 ![Cisco](https://github.com/ivakhnenkovitali/SOK_2/assets/141067997/c04d3939-ad5d-448c-a2f2-3a6c759fbf47)
 <<<<<<< HEAD
