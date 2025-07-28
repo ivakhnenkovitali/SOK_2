@@ -42,6 +42,10 @@ ________________________________________________________
 _______________________________________________________
 _______________________________________________________
 
+<img width="934" height="2200" alt="Capture 452" src="https://github.com/user-attachments/assets/ff1cad53-469a-4a6b-8ea0-d96aa4a60205" />
+
+___________________________________________________
+___________________________________________________
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Final+project)](https://git.io/typing-svg)  
 ![Cisco](https://github.com/ivakhnenkovitali/SOK_2/assets/141067997/c04d3939-ad5d-448c-a2f2-3a6c759fbf47)
