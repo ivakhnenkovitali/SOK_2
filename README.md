@@ -1,6 +1,55 @@
 
 ______________________________________________
 ____________________________________________
+
+___________________________________________
+_________________________________________
+
+Праект: Мадэляванне карпаратыўнай сеткі з выкарыстаннем Cisco Packet Tracer
+Спраектаваў і рэалізаваў віртуальную карпаратыўную сетку, якая ўключае 6 кліенцкіх машын, 3 камутатары і 1 маршрутызатар Cisco.
+
+Наладзіў VLAN'ы (10, 20, 30), trunk-злучэнні паміж камутатарамі, IP-сегментацыю (172.22.22.0/24, 192.168.100.0/24)
+
+Забяспечыў узаемадзеянне VLAN праз маршрутызатар Cisco 2901 (Router-on-a-Stick / інтэр-VLAN маршрутызацыя)
+
+Рэалізаваў фільтрацыю і арганізацыю доступу па аддзелах: адміністрацыя, карыстальнікі, службовы аддзел
+
+Упэўнена карыстаўся інтэрфейсамі FastEthernet, GigabitEthernet, а таксама камандамі CLI на L2 і L3 узроўнях
+
+Ужываў навыкі працы з NAT, trunking (dot1q), статычнай маршрутызацыяй, access-port'амі
+Тэхналогіі: Cisco Packet Tracer, VLAN, IP-сегментацыя, Static Routing, Trunk, Access Port, L2/L3-сеткі, CLI, топалогія ўзроўню прадпрыемства
+_______________________________________
+___________________________________________
+Projekt: Modellierung eines Firmennetzwerks mit Cisco Packet Tracer
+Ein virtuelles Firmennetzwerk entworfen und umgesetzt, bestehend aus 6 Client-Computern, 3 Switches und 1 Cisco-Router.
+
+VLANs (10, 20, 30), Trunk-Verbindungen zwischen den Switches und IP-Segmentierung (172.22.22.0/24, 192.168.100.0/24) konfiguriert
+
+Die Kommunikation zwischen VLANs über einen Cisco 2901 Router (Router-on-a-Stick / Inter-VLAN-Routing) sichergestellt
+
+Zugriffsfilterung und Netzwerksegmentierung nach Abteilungen implementiert: Verwaltung, Benutzer, interner Dienst
+
+Sicherer Umgang mit FastEthernet-, GigabitEthernet-Schnittstellen sowie CLI-Kommandos auf Layer 2 und Layer 3
+
+Kenntnisse in NAT, Trunking (dot1q), statischem Routing, Access-Ports angewendet
+Technologien: Cisco Packet Tracer, VLAN, IP-Segmentierung, statisches Routing, Trunk, Access Port, L2/L3-Netzwerk, CLI, Unternehmens-Topologie
+
+_____________________________________________
+_______________________________________________
+Projet : Modélisation d’un réseau d’entreprise avec Cisco Packet Tracer
+Conception et mise en œuvre d’un réseau d’entreprise virtuel comprenant 6 postes clients, 3 commutateurs et 1 routeur Cisco.
+
+Configuration des VLANs (10, 20, 30), des connexions Trunk entre les commutateurs, et de la segmentation IP (172.22.22.0/24, 192.168.100.0/24)
+
+Mise en place du routage inter-VLAN via un routeur Cisco 2901 (Router-on-a-Stick)
+
+Mise en œuvre de la filtration et de l’organisation de l’accès par départements : administration, utilisateurs, service interne
+
+Maîtrise des interfaces FastEthernet, GigabitEthernet, ainsi que des commandes CLI de niveau 2 et 3
+
+Utilisation des compétences en NAT, trunking (dot1q), routage statique, et ports d’accès
+Technologies : Cisco Packet Tracer, VLAN, segmentation IP, routage statique, Trunk, port d’accès, réseau L2/L3, CLI, topologie de niveau entreprise
+___________________________________________
 ____________________________________________
 Проект: Моделирование корпоративной сети с использованием Cisco Packet Tracer
 Спроектировал и реализовал виртуальную корпоративную сеть, включающую 6 клиентских машин, 3 коммутатора и 1 маршрутизатор Cisco.
