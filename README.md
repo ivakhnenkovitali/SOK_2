@@ -84,6 +84,8 @@ ____________________________________________________
 https://github.com/user-attachments/assets/b9e77509-f8c9-4bf5-9cb8-a3c4095877d9
 ______________________________________________________
 _______________________________________________________
+<img width="1536" height="1024" alt="sad" src="https://github.com/user-attachments/assets/e0a675f8-7fce-4991-b40f-97508d2b8cbe" />
+
 ________________________________________________________
 
 <img width="1009" height="3336" alt="Capture452" src="https://github.com/user-attachments/assets/f2b2554d-4d20-4dbb-9fac-c632dc443f1a" />
